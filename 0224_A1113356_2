@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+	   public class 0224_A1113356_2
+	   {
+	   		  public static void main(String[]argv)
+	   		  {
+	   		  		 Scanner temperature = new Scanner(System.in);
+	   		  		 System.out.println（“輸入任意攝氏溫度“）
+	   		  		 double t = input.nextDouble();
+	   		  		 t = t*9/5+32;
+	   		  		 System.outprintln("華氏溫度為:" +t);
+	   		  }
+	   }
