@@ -1,0 +1,19 @@
+import java.util.*;
+
+	   public class 0224_A1113356_1
+	   {	  
+	          public static void main(String[]argv)
+	          {
+	          		 Scanner number = new Scanner(System.in);
+	          		 System.out.println("輸入任意整數");
+	          		 int n = input.nextInt();
+
+	          		 if(n % 2 ==1)
+	          		 {
+	          		 	  System.out.println(n+"是奇數");
+	          		 }	
+	          		 else{
+	          		 	  System.out.println(n+"是偶數");
+	          		 }	          		 
+	          }
+	   }      
