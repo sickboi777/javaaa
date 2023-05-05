@@ -2,7 +2,7 @@ import java.util.*;
 
 public class A1113356_0421_1
 {
-	public static void main(String[]argv) throws Exception
+	public static void main(String[]argv)
 	{
 		Scanner sc = new Scanner(System.in);
 
